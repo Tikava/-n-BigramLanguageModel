@@ -1,2 +1,3 @@
 # -n-BigramLanguageModel
-Hello! This is project for aplicants.
+Hello !n. 
+This is my BigramLanguageModel that calculates probabilities and creates name.
